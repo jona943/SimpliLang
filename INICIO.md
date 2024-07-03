@@ -1,5 +1,3 @@
-Aquí tienes un formato para un archivo `README.md` que puedes utilizar para tu proyecto SimpliLang en GitHub:
-
 ```markdown
 # SimpliLang
 
