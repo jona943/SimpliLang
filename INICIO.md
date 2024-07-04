@@ -27,8 +27,8 @@ SimpliLang es un lenguaje de programación diseñado para ser simple, diferente 
 
 ### Variables y Asignaciones
 ```plaintext
-let nombre = "Juan"
-let edad = 30
+let nombre = "Jonathan"
+let edad = 23
 ```
 
 ## Tipos de Datos
@@ -44,7 +44,7 @@ let edad = 30
 ```plaintext
 let numero: num = 10       
 let precio: num = 19.99    
-let nombre: text = "Juan"   
+let nombre: text = "Jonathan"   
 let esActivo: bool = true   
 let lista: list = [1, 2, 3] 
 let diccionario: dict = {clave: "valor"} 
@@ -92,7 +92,7 @@ fin
 
 ### Llamada a Funciones
 ```plaintext
-saludar("Juan")
+saludar("Jonathan")
 ```
 
 ## Entradas y Salidas
@@ -139,9 +139,9 @@ lista.agregar(6)
 
 ### Diccionarios
 ```plaintext
-let diccionario = {nombre: "Juan", edad: 30}
-mostrar diccionario["nombre"]  # Juan
-diccionario["apellido"] = "Perez"
+let diccionario = {nombre: "Jonathan", edad: 23}
+mostrar diccionario["nombre"]  # Jonathan
+diccionario["apellido"] = "Medina"
 ```
 
 ## Manejo de Errores
@@ -173,11 +173,11 @@ fin
 
 ### Creación de Objetos
 ```plaintext
-let juan = Persona("Juan", 30)
-juan.saludar()  # Hola, mi nombre es Juan
+let juan = Persona("Jonathan", 23)
+juan.saludar()  # Hola, mi nombre es Jonathan
 ```
 
 ---
 
-Este documento proporciona una introducción a SimpliLang. Puedes contribuir con el desarrollo del lenguaje y proponer mejoras a través de Pull Requests.
+Este documento proporciona una introducción a SimpliLang. Puedes contribuir con el desarrollo del lenguaje.
 ```
